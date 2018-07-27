@@ -1,1 +1,1 @@
-自己学习Dubbo和ZooKeeper时，一些联系的程序。
+自己学习Dubbo和ZooKeeper时，做的一些练习的程序。
