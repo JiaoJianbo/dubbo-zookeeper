@@ -1,4 +1,4 @@
-参考https://github.com/apache/incubator-dubbo-ops整理出来的dubbo admin程序。
+参考 https://github.com/apache/incubator-dubbo-ops 整理出来的dubbo admin程序。
 
 
 **有两种方式可以启动，注意先启动ZooKeeper**
