@@ -1,1 +1,1 @@
-自己学习Dubbo和ZooKeeper时，做的一些练习的程序。
+自己学习Dubbo和ZooKeeper时，参考网上例子做的一些练习的程序。
